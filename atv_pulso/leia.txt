@@ -1,0 +1,14 @@
+I. Aqui se encontra o arquivo .HEX para o pic master, que enviará os pulsos, que serão lidos pelo programa de vocês no outro pic!
+
+II.Em configurarHEX mostro como faz para adicionar o .HEX no pic.
+
+III.Em cadeHEX tem um print de onde será localizado o arquivo .HEX de vocês!
+
+IV.Em exemploTESTE mostra um exemplo de funcionamento, onde é mostrado no osciloscópio quantos pulsos foram enviados, e nos LEDS indicando a saída da contagem!
+
+IV.De brinde vem o esquemático do proteus!
+
+
+Bom, para quem for fazer no FDS serve para ir acompanhando se está OK, mas para garantir a atividade tem que realizar o teste na bancada do labec!
+
+VLW!
